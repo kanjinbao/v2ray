@@ -6,7 +6,10 @@ chmod +x install.sh
 
 ./install.sh local
 -------------------------------------
+v2ray url   vmess 链接
+
 快速管理
+
 v2ray info 查看 V2Ray 配置信息
 
 v2ray config 修改 V2Ray 配置
