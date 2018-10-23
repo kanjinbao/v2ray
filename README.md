@@ -7,7 +7,7 @@ chmod +x install.sh
 ./install.sh local
 
 -------------------------------------
-v2ray url   vmess 链接
+v2ray url   显示vmess 链接
 
 快速管理
 
