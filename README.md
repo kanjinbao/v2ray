@@ -5,6 +5,7 @@ cd v2ray
 chmod +x install.sh
 
 ./install.sh local
+
 -------------------------------------
 v2ray url   vmess 链接
 
